@@ -1,0 +1,3 @@
+	Unity is a developemnt tool that allows users to construct games in an easy to learns interface.
+The beginner tutorials use a premade project and videos to teach users about the interface,
+and writing scripts in the Unity C# programming language.
